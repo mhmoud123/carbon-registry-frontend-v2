@@ -1,0 +1,5 @@
+{
+  "name": "Carbon Registry Frontend",
+  "description": "A metadata-driven Carbon Registry frontend built with React, mimicking Frappe Framework patterns.",
+  "requestFramePermissions": []
+}
